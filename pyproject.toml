@@ -19,6 +19,7 @@ dependencies = [
     "opentelemetry-exporter-otlp-proto-grpc>=1.25.0",
     "databricks-sdk>=0.40.0",
     "pymupdf>=1.24",
+    "pydantic>=2.0",
 ]
 
 [build-system]
@@ -47,3 +48,4 @@ agent-evaluate = "agent_server.evaluate_agent:evaluate"
 discover-tools = "scripts.discover_tools:main"
 preflight = "scripts.preflight:main"
 parse-pdf = "pdf_parser.cli:main"
+parse-packet = "packet_parser.cli:main"

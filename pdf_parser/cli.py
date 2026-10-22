@@ -58,6 +58,8 @@ def build_parser() -> argparse.ArgumentParser:
                     help="write only <stem>.ai_parse.json and <stem>.elements.json (no .md/.html/.csv)")
     ap.add_argument("--flat", action="store_true",
                     help="write <stem>.* files directly into --out instead of one folder per document")
+    ap.add_argument("--final", action="store_true",
+                    help="also run packet_parser on each parse and write <stem>.final.json next to <stem>.ai_parse.json")
     ap.add_argument("--csv", action="store_true", help="also write every table as CSV under <doc>/tables/")
     ap.add_argument("--images", action="store_true", help="also render page PNGs locally with PyMuPDF under <doc>/images/")
     ap.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE, help="PDFs per upload folder / SQL statement")
@@ -138,12 +140,22 @@ def main(argv: list[str] | None = None) -> int:
             render_pages(local, target / "images" if per_doc else args.out / f"{stem}.images")
         s = doc.summary()
         status = "warning" if doc.error_status else "ok"
+        final_path = None
+        if args.final:
+            from packet_parser import write_final
+
+            try:
+                final_path, _ = write_final(target / f"{stem}.ai_parse.json" if per_doc else args.out / f"{stem}.ai_parse.json")
+            except Exception as exc:  # noqa: BLE001 - the parse itself succeeded; report and carry on
+                say(f"  WARNING   {local.name}: packet_parser failed: {type(exc).__name__}: {exc}")
         if doc.error_status:
             say(f"  WARNING   {local.name}: error_status={doc.error_status}")
         say(f"  {status:8}  {local.name}: {s['pages']} page(s), {s['elements']} elements, {s['tables']} table(s), "
             f"{s['low_confidence_elements']} low-confidence -> {target if per_doc else str(args.out / stem) + '.*'}")
+        if final_path:
+            say(f"            final -> {final_path}")
         manifest.append({"file": str(local), "stem": stem, "status": status, "output_dir": str(target),
-                         "volume_path": vol_path, **s})
+                         "volume_path": vol_path, "final_json": str(final_path) if final_path else None, **s})
 
     (args.out / "manifest.json").write_text(
         json.dumps({"run_dir": run_dir, "out": str(args.out), "documents": manifest}, indent=2, ensure_ascii=False),

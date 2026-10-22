@@ -15,6 +15,25 @@ local PDFs --Files API--> /Volumes/<catalog>/<schema>/<volume>/pdf_parser/<run_i
                  --local--> output/pdf_parser/<stem>/<stem>.ai_parse.json | .elements.json | .parsed.md | .md | .parsed.html
 ```
 
+**Next step:** `packet_parser` turns each `<stem>.ai_parse.json` written here into `<stem>.final.json`
+(structured inspection report / purchase order / bill of lading + traceability row), see `packet_parser/README.md`.
+
+```
+  PDF  ---------->  <stem>.ai_parse.json  ---------->  <stem>.final.json
+       pdf_parser                         packet_parser
+       (Databricks ai_parse_document)     (rules only, no LLM)
+```
+
+Add `--final` to any `pdf_parser` command to run both stages at once:
+
+```powershell
+# one PDF
+.venv\Scripts\python -m pdf_parser "docs\official-docs\BOL IQF Strawberries\STRAWBERRY HALVED- PO# 20260089938.pdf" --out output\packets --json-only --final
+
+# whole folder
+.venv\Scripts\python -m pdf_parser "docs\official-docs\BOL IQF Strawberries" --out output\packets --json-only --final
+```
+
 ## Setup
 
 The project venv already has every dependency (`databricks-sdk`, `python-dotenv`, `pymupdf`).
@@ -89,6 +108,9 @@ docs/my_docs/data/
 # re-render an earlier run offline (no Databricks calls), e.g. to add .md/.csv later
 .venv\Scripts\python -m pdf_parser "docs\official-docs\COA's" --from-parse docs\my_docs\data --out docs\my_docs\data --csv
 
+# PDF -> final receiving-packet JSON in one go (adds <stem>.final.json, see packet_parser/README.md)
+.venv\Scripts\python -m pdf_parser "docs\official-docs\BOL IQF Strawberries" --out output\packets --json-only --final
+
 # show the SQL you could paste into a notebook
 .venv\Scripts\python -m pdf_parser any.pdf --print-sql
 ```
@@ -100,6 +122,7 @@ docs/my_docs/data/
 | `--out DIR` | output folder (default `output/pdf_parser/`); each document gets its own sub-folder `<stem>/` |
 | `--flat` | write `<stem>.*` files directly into `--out` instead of one folder per document |
 | `--json-only` | write only `<stem>.ai_parse.json` and `<stem>.elements.json` |
+| `--final` | also run `packet_parser` and write `<stem>.final.json` next to `<stem>.ai_parse.json` (see `packet_parser/README.md`) |
 | `--batch-size N` | PDFs per upload folder and per SQL statement (default 4; keeps results inside the inline result limit) |
 | `--csv` | write each table as `<stem>/tables/table_p<page>_<n>.csv` |
 | `--images` | render `<stem>/images/page_<n>.png` locally with PyMuPDF |
