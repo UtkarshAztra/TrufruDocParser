@@ -182,6 +182,21 @@ def load(path: Path) -> Doc:
     return doc
 
 
+def parsed_text(doc: Doc) -> str:
+    """The document as ``pdf_parser`` writes ``<stem>.parsed.md``: ``===== PAGE n =====`` + one ``[type] content``
+    line per element, tables kept as the HTML the service returned.
+
+    Same bytes as ``pdf_parser.render.parsed_to_text`` on the same ``ai_parse.json``, so the fuzzy matcher and the
+    printed-number reader see exactly the text the v1 experiments were tuned on.
+    """
+    blocks = []
+    for page in doc.pages:
+        lines = [f"[{e.type}] {e.content or e.description}" for e in page.elements if (e.content or e.description)]
+        if lines:
+            blocks.append(f"===== PAGE {page.index + 1} =====\n" + "\n".join(lines))
+    return "\n\n".join(blocks)
+
+
 def strip_tags(s: str) -> str:
     return re.sub(r"<[^>]+>", "", s or "")
 

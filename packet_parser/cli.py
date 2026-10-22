@@ -29,6 +29,13 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--doc", action="append", help="only packets whose stem is in this list (repeatable)")
     ap.add_argument("--summary", type=Path, default=None,
                     help="where to write summary.json (default: <out>/summary.json, or <input>/summary.json for a folder)")
+    ap.add_argument("--master-dir", type=Path, default=None,
+                    help="folder with master_keywords.csv / master_products.csv / master_lots.csv "
+                         "(default: docs/official-docs, or $TRUFRU_MASTER_DIR)")
+    ap.add_argument("--no-master", action="store_true",
+                    help="skip the fuzzy matcher / master-data check (master_match = null)")
+    ap.add_argument("--no-numeric", action="store_true",
+                    help="skip the numeric confirmation of every number (numeric_confirm = null)")
     ap.add_argument("--quiet", action="store_true")
     return ap
 
@@ -51,7 +58,8 @@ def main(argv: list[str] | None = None) -> int:
     for p in parses:
         stem = stem_of(p)
         try:
-            target, result = write_final(p, args.out)
+            target, result = write_final(p, args.out, master=not args.no_master, numeric=not args.no_numeric,
+                                         master_dir=args.master_dir)
             row = summary_row(result) | {"output": str(target)}
             kinds = " ".join(k[:4] for k in row["page_kinds"] or [])
             note = ""
@@ -61,6 +69,10 @@ def main(argv: list[str] | None = None) -> int:
                 note += f"  SCHEMA: {row['schema_error'][:60]}"
             if row["checks_failed"]:
                 note += f"  FAILED CHECKS: {', '.join(row['checks_failed'])}"
+            if row["numeric_conflicts"]:
+                note += f"  NUMERIC: {row['numeric_conflicts']} conflict(s)"
+            if row["master_flags"]:
+                note += f"  MASTER: {', '.join(row['master_flags'])}"
             say(f"  ok    {stem:<48} {kinds}{note}")
         except Exception:  # noqa: BLE001 - one bad packet must not stop the batch
             failures += 1
@@ -76,7 +88,8 @@ def main(argv: list[str] | None = None) -> int:
     summary = {"run_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "input": str(args.input), "docs": rows}
     summary_path.write_text(json.dumps(summary, indent=2, ensure_ascii=False), encoding="utf-8")
     n_fb = sum(1 for r in rows if r.get("fallback_reason"))
-    say(f"\n{len(rows)} packet(s), {failures} error(s), {n_fb} with fallback -> summary {summary_path}")
+    n_rev = sum(1 for r in rows if r.get("needs_review"))
+    say(f"\n{len(rows)} packet(s), {failures} error(s), {n_fb} with fallback, {n_rev} need review -> summary {summary_path}")
     return 1 if failures else 0
 
 

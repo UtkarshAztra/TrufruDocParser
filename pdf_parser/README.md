@@ -150,7 +150,7 @@ Default layout: one folder per document.
 | File | What it is |
 |---|---|
 | `<stem>.ai_parse.json` | raw service output; feed it back with `--from-parse` |
-| `<stem>.parsed.md` | `===== PAGE n =====` + one `[type] content` line per element, tables kept as HTML. Byte-identical to the v1 experiment's `.parsed.md`, so `fuzzy_matcher` and `interdependent_numeric_data` can read it unchanged |
+| `<stem>.parsed.md` | `===== PAGE n =====` + one `[type] content` line per element, tables kept as HTML. Byte-identical to the v1 experiment's `.parsed.md`; `packet_parser` renders the same text itself for its fuzzy matcher and numeric confirmation, so this file is only for reading |
 | `<stem>.md` | readable Markdown: headings, paragraphs, Markdown tables, figure/signature captions |
 | `<stem>.parsed.html` | browser view per page; elements with confidence < 0.50 are highlighted |
 | `<stem>.elements.json` | flat element list (`type, page, confidence, bbox, text, rows`) plus a summary block |

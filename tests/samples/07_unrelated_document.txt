@@ -1,0 +1,3 @@
+Invoice
+Freight-Inbound 1 EA
+Pallets exchanged: 0

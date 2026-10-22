@@ -286,4 +286,8 @@ class ParsedPacket(BaseModel):
     sources: dict[str, dict[str, Any]] = Field(
         default_factory=dict, description="field path -> {element, page, type, confidence} the value was read from")
     cross_checks: list[CrossCheck] = Field(default_factory=list)
+    numeric_confirm: Optional[dict[str, Any]] = Field(
+        None, description="Every number checked against the printed text and the math rules R1-R15 (packet_parser.numeric_confirm). None if the step was skipped.")
+    master_match: Optional[dict[str, Any]] = Field(
+        None, description="Fuzzy-matcher verdict against docs/official-docs/master_*.csv and checks of the extraction against it (packet_parser.master_check). None if the step was skipped.")
 
