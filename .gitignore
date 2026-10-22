@@ -228,3 +228,6 @@ load-test-runs/
 
 docs
 TruFru-exp
+
+# pdf_parser local outputs
+output/
