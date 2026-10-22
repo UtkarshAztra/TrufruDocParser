@@ -64,7 +64,8 @@ TRUFRU_PARSER_VERSION=2.0                       # optional ai_parse_document ver
 Permissions: `READ VOLUME` + `WRITE VOLUME` on the volume and `CAN USE` on the warehouse.
 
 The master data for the fuzzy matcher ships with the repo in `docs/official-docs/` (`master_keywords.csv`,
-`master_products.csv`, `master_lots.csv`). Point elsewhere with `--master-dir` or `TRUFRU_MASTER_DIR`.
+`master_products.csv`, `master_lots.csv`). They are the only files tracked under `docs/`; the sample PDFs and
+other documents there stay local. Point elsewhere with `--master-dir` or `TRUFRU_MASTER_DIR`.
 
 ## 3. PDF to final JSON in one command
 

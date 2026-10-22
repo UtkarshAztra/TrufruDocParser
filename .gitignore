@@ -226,7 +226,13 @@ sketch
 **/.env.local
 load-test-runs/
 
-docs
+# docs/ stays private, except the fuzzy matcher's master data (packet_parser needs it on every clone)
+docs/*
+!docs/official-docs/
+docs/official-docs/*
+!docs/official-docs/master_keywords.csv
+!docs/official-docs/master_products.csv
+!docs/official-docs/master_lots.csv
 TruFru-exp
 
 # pdf_parser local outputs

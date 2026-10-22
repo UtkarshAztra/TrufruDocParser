@@ -1,0 +1,1007 @@
+﻿keyword_id,keyword,keyword_norm,keyword_compact,keyword_type,item_codes,n_items,item_classes,item_descs,is_ambiguous,match_method,suggested_threshold,source
+KW00001,C01544.AA,C01544.AA,C01544AA,item_code,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_item
+KW00002,C01545.AA,C01545.AA,C01545AA,item_code,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_item
+KW00003,C01546.AA,C01546.AA,C01546AA,item_code,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_item
+KW00004,C01547.AB,C01547.AB,C01547AB,item_code,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,92,lineage.input_item
+KW00005,C01547.AC,C01547.AC,C01547AC,item_code,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,92,lineage.input_item
+KW00006,C01565.AA,C01565.AA,C01565AA,item_code,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,92,lineage.input_item
+KW00007,P00397,P00397,P00397,item_code,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,95,lineage.input_item
+KW00008,P00398,P00398,P00398,item_code,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,ratio on keyword_compact,95,lineage.input_item
+KW00009,P00399,P00399,P00399,item_code,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,95,lineage.input_item
+KW00010,P00407,P00407,P00407,item_code,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,lineage.input_item
+KW00011,P00408,P00408,P00408,item_code,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,lineage.input_item
+KW00012,P00409,P00409,P00409,item_code,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,95,lineage.input_item
+KW00013,P00410,P00410,P00410,item_code,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,95,lineage.input_item
+KW00014,P00412,P00412,P00412,item_code,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,ratio on keyword_compact,95,lineage.input_item
+KW00015,P00413,P00413,P00413,item_code,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,95,lineage.input_item
+KW00016,S02101.AA,S02101.AA,S02101AA,item_code,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_item
+KW00017,S02102.AA,S02102.AA,S02102AA,item_code,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_item
+KW00018,S02103.AA,S02103.AA,S02103AA,item_code,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_item
+KW00019,S02104.AA,S02104.AA,S02104AA,item_code,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_item
+KW00020,S02105.AA,S02105.AA,S02105AA,item_code,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_item
+KW00021,C01544AA,C01544AA,C01544AA,item_code_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00022,C01545AA,C01545AA,C01545AA,item_code_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00023,C01546AA,C01546AA,C01546AA,item_code_compact,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00024,C01547AB,C01547AB,C01547AB,item_code_compact,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00025,C01547AC,C01547AC,C01547AC,item_code_compact,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00026,C01565AA,C01565AA,C01565AA,item_code_compact,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,92,derived:code without punctuation
+KW00027,P00397,P00397,P00397,item_code_compact,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00028,P00398,P00398,P00398,item_code_compact,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00029,P00399,P00399,P00399,item_code_compact,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00030,P00407,P00407,P00407,item_code_compact,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00031,P00408,P00408,P00408,item_code_compact,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00032,P00409,P00409,P00409,item_code_compact,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00033,P00410,P00410,P00410,item_code_compact,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00034,P00412,P00412,P00412,item_code_compact,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00035,P00413,P00413,P00413,item_code_compact,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,95,derived:code without punctuation
+KW00036,S02101AA,S02101AA,S02101AA,item_code_compact,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00037,S02102AA,S02102AA,S02102AA,item_code_compact,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00038,S02103AA,S02103AA,S02103AA,item_code_compact,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00039,S02104AA,S02104AA,S02104AA,item_code_compact,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00040,S02105AA,S02105AA,S02105AA,item_code_compact,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,derived:code without punctuation
+KW00041,C01544,C01544,C01544,item_code_base,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,95,derived:code before suffix
+KW00042,C01545,C01545,C01545,item_code_base,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,95,derived:code before suffix
+KW00043,C01546,C01546,C01546,item_code_base,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,95,derived:code before suffix
+KW00044,C01547,C01547,C01547,item_code_base,C01547.AB|C01547.AC,2,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA,Y,ratio on keyword_compact,95,derived:code before suffix
+KW00045,C01565,C01565,C01565,item_code_base,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,derived:code before suffix
+KW00046,P00397,P00397,P00397,item_code_base,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,95,derived:code before suffix
+KW00047,P00398,P00398,P00398,item_code_base,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,ratio on keyword_compact,95,derived:code before suffix
+KW00048,P00399,P00399,P00399,item_code_base,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,95,derived:code before suffix
+KW00049,P00407,P00407,P00407,item_code_base,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code before suffix
+KW00050,P00408,P00408,P00408,item_code_base,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code before suffix
+KW00051,P00409,P00409,P00409,item_code_base,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code before suffix
+KW00052,P00410,P00410,P00410,item_code_base,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code before suffix
+KW00053,P00412,P00412,P00412,item_code_base,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,ratio on keyword_compact,95,derived:code before suffix
+KW00054,P00413,P00413,P00413,item_code_base,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,95,derived:code before suffix
+KW00055,S02101,S02101,S02101,item_code_base,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,95,derived:code before suffix
+KW00056,S02102,S02102,S02102,item_code_base,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,95,derived:code before suffix
+KW00057,S02103,S02103,S02103,item_code_base,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,95,derived:code before suffix
+KW00058,S02104,S02104,S02104,item_code_base,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,95,derived:code before suffix
+KW00059,S02105,S02105,S02105,item_code_base,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,95,derived:code before suffix
+KW00060,Milk Chocolate USA,MILK CHOCOLATE USA,MILKCHOCOLATEUSA,item_desc,C01544.AA,1,RM,Milk Chocolate USA,N,token_set_ratio on keyword_norm,88,lineage.input_desc
+KW00061,White Chocolate USA,WHITE CHOCOLATE USA,WHITECHOCOLATEUSA,item_desc,C01545.AA,1,RM,White Chocolate USA,N,token_set_ratio on keyword_norm,88,lineage.input_desc
+KW00062,Dark Semisweet Chocolate USA,DARK SEMISWEET CHOCOLATE USA,DARKSEMISWEETCHOCOLATEUSA,item_desc,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00063,IQF Strawberry Halved Peru,IQF STRAWBERRY HALVED PERU,IQFSTRAWBERRYHALVEDPERU,item_desc,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00064,IQF Strawberry Halved USA,IQF STRAWBERRY HALVED USA,IQFSTRAWBERRYHALVEDUSA,item_desc,C01547.AC,1,RM,IQF Strawberry Halved USA,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00065,IQF Strawberry Halved USA (Organic/100% Content),IQF STRAWBERRY HALVED USA ORGANIC/100% CONTENT,IQFSTRAWBERRYHALVEDUSAORGANIC100CONTENT,item_desc,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00066,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,TRU FRU 8 OZ - 6CT PRINTED BOX 6.875IN H 6.938IN W 11.125IN L 32 ECT,TRUFRU8OZ6CTPRINTEDBOX6875INH6938INW11125INL32ECT,item_desc,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00067,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,TRU FRU 18 OZ - 6CT KRAFT BOX 6.5IN H 8IN W 13IN L 44 ECT,TRUFRU18OZ6CTKRAFTBOX65INH8INW13INL44ECT,item_desc,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00068,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,TRU FRU STRAWBERRY MILK CHOC. CLUB TRAY PRINTED BOX 10.375IN H 15.375IN W 18.625IN L 44 ECT,TRUFRUSTRAWBERRYMILKCHOCCLUBTRAYPRINTEDBOX10375INH15375INW18625INL44ECT,item_desc,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00069,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,TRU FRU MILK CHOCOLATE STRAWBERRY PRINTED 8 OZ POUCH 178MM W 154MM L 50MM G 3.5 MIL,TRUFRUMILKCHOCOLATESTRAWBERRYPRINTED8OZPOUCH178MMW154MML50MMG35MIL,item_desc,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00070,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,TRU FRU DARK CHOCOLATE STRAWBERRY PRINTED 8 OZ POUCH 178MM W 154MM L 50MM G 3.5 MIL,TRUFRUDARKCHOCOLATESTRAWBERRYPRINTED8OZPOUCH178MMW154MML50MMG35MIL,item_desc,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00071,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,TRU FRU MILK CHOCOLATE STRAWBERRY PRINTED 18 OZ POUCH 213.8MM W 216MM L 90MM G 3.5 MIL,TRUFRUMILKCHOCOLATESTRAWBERRYPRINTED18OZPOUCH2138MMW216MML90MMG35MIL,item_desc,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00072,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,TRU FRU DARK CHOCOLATE STRAWBERRY PRINTED 18 OZ POUCH 213.8MM W 216MM L 90MM G 3.5 MIL,TRUFRUDARKCHOCOLATESTRAWBERRYPRINTED18OZPOUCH2138MMW216MML90MMG35MIL,item_desc,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00073,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,TRU FRU/COSTCO MILK CHOCOLATE STRAWBERRY PRINTED POUCH 207.4MM W 223MM L 76MM G 3.5 MIL,TRUFRUCOSTCOMILKCHOCOLATESTRAWBERRYPRINTEDPOUCH2074MMW223MML76MMG35MIL,item_desc,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00074,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,TRU FRU ZIPPER 11MM +/- 0.3MM W 17000FT L,TRUFRUZIPPER11MM03MMW17000FTL,item_desc,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,token_set_ratio on keyword_norm,85,lineage.input_desc
+KW00075,Fruit Enrobing Strawberry Milk 24 OZ,FRUIT ENROBING STRAWBERRY MILK 24 OZ,FRUITENROBINGSTRAWBERRYMILK24OZ,item_desc,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,token_set_ratio on keyword_norm,85,bom_derived_output.fg_desc
+KW00076,Fruit Enrobing Strawberry Milk 8 OZ,FRUIT ENROBING STRAWBERRY MILK 8 OZ,FRUITENROBINGSTRAWBERRYMILK8OZ,item_desc,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,token_set_ratio on keyword_norm,85,bom_derived_output.fg_desc
+KW00077,Fruit Enrobing Strawberry Dark DI 8 OZ,FRUIT ENROBING STRAWBERRY DARK DI 8 OZ,FRUITENROBINGSTRAWBERRYDARKDI8OZ,item_desc,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,token_set_ratio on keyword_norm,85,bom_derived_output.fg_desc
+KW00078,Fruit Enrobing Strawberry Milk 18 OZ,FRUIT ENROBING STRAWBERRY MILK 18 OZ,FRUITENROBINGSTRAWBERRYMILK18OZ,item_desc,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,token_set_ratio on keyword_norm,85,bom_derived_output.fg_desc
+KW00079,Fruit Enrobing Strawberry Dark 18 OZ,FRUIT ENROBING STRAWBERRY DARK 18 OZ,FRUITENROBINGSTRAWBERRYDARK18OZ,item_desc,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,token_set_ratio on keyword_norm,85,bom_derived_output.fg_desc
+KW00080,IQF Strawberry Halved Peru,IQF STRAWBERRY HALVED PERU,IQFSTRAWBERRYHALVEDPERU,item_desc_core,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,derived:desc without qualifier
+KW00081,IQF Strawberry Halved USA,IQF STRAWBERRY HALVED USA,IQFSTRAWBERRYHALVEDUSA,item_desc_core,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,derived:desc without qualifier
+KW00082,Milk Chocolate,MILK CHOCOLATE,MILKCHOCOLATE,product_phrase,C01544.AA,1,RM,Milk Chocolate USA,N,token_set_ratio on keyword_norm,88,derived:desc without origin
+KW00083,White Chocolate,WHITE CHOCOLATE,WHITECHOCOLATE,product_phrase,C01545.AA,1,RM,White Chocolate USA,N,token_set_ratio on keyword_norm,88,derived:desc without origin
+KW00084,Dark Semisweet Chocolate,DARK SEMISWEET CHOCOLATE,DARKSEMISWEETCHOCOLATE,product_phrase,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,derived:desc without origin
+KW00085,IQF Strawberry Halved,IQF STRAWBERRY HALVED,IQFSTRAWBERRYHALVED,product_phrase,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,derived:desc without origin
+KW00086,Tru Fru 8 OZ – 6CT Printed Box,TRU FRU 8 OZ - 6CT PRINTED BOX,TRUFRU8OZ6CTPRINTEDBOX,product_phrase,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00087,Tru Fru 18 OZ – 6CT Kraft Box,TRU FRU 18 OZ - 6CT KRAFT BOX,TRUFRU18OZ6CTKRAFTBOX,product_phrase,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00088,Tru Fru Strawberry Milk Choc. Club Tray Printed Box,TRU FRU STRAWBERRY MILK CHOC. CLUB TRAY PRINTED BOX,TRUFRUSTRAWBERRYMILKCHOCCLUBTRAYPRINTEDBOX,product_phrase,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00089,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch,TRU FRU MILK CHOCOLATE STRAWBERRY PRINTED 8 OZ POUCH,TRUFRUMILKCHOCOLATESTRAWBERRYPRINTED8OZPOUCH,product_phrase,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00090,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch,TRU FRU DARK CHOCOLATE STRAWBERRY PRINTED 8 OZ POUCH,TRUFRUDARKCHOCOLATESTRAWBERRYPRINTED8OZPOUCH,product_phrase,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00091,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch,TRU FRU MILK CHOCOLATE STRAWBERRY PRINTED 18 OZ POUCH,TRUFRUMILKCHOCOLATESTRAWBERRYPRINTED18OZPOUCH,product_phrase,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00092,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch,TRU FRU DARK CHOCOLATE STRAWBERRY PRINTED 18 OZ POUCH,TRUFRUDARKCHOCOLATESTRAWBERRYPRINTED18OZPOUCH,product_phrase,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00093,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch,TRU FRU/COSTCO MILK CHOCOLATE STRAWBERRY PRINTED POUCH,TRUFRUCOSTCOMILKCHOCOLATESTRAWBERRYPRINTEDPOUCH,product_phrase,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,token_set_ratio on keyword_norm,85,derived:desc without dimensions
+KW00094,Tru Fru Zipper,TRU FRU ZIPPER,TRUFRUZIPPER,product_phrase,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,token_set_ratio on keyword_norm,88,derived:desc without dimensions
+KW00095,Strawberry Milk 24 OZ,STRAWBERRY MILK 24 OZ,STRAWBERRYMILK24OZ,product_phrase,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,token_set_ratio on keyword_norm,85,derived:fg desc short
+KW00096,Strawberry Milk 8 OZ,STRAWBERRY MILK 8 OZ,STRAWBERRYMILK8OZ,product_phrase,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,token_set_ratio on keyword_norm,85,derived:fg desc short
+KW00097,Strawberry Dark DI 8 OZ,STRAWBERRY DARK DI 8 OZ,STRAWBERRYDARKDI8OZ,product_phrase,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,token_set_ratio on keyword_norm,85,derived:fg desc short
+KW00098,Strawberry Milk 18 OZ,STRAWBERRY MILK 18 OZ,STRAWBERRYMILK18OZ,product_phrase,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,token_set_ratio on keyword_norm,85,derived:fg desc short
+KW00099,Strawberry Dark 18 OZ,STRAWBERRY DARK 18 OZ,STRAWBERRYDARK18OZ,product_phrase,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,token_set_ratio on keyword_norm,85,derived:fg desc short
+KW00100,Milk Choc,MILK CHOC,MILKCHOC,product_synonym,C01544.AA,1,RM,Milk Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00101,Milk Chocolate,MILK CHOCOLATE,MILKCHOCOLATE,product_synonym,C01544.AA,1,RM,Milk Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00102,White Choc,WHITE CHOC,WHITECHOC,product_synonym,C01545.AA,1,RM,White Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00103,White Chocolate,WHITE CHOCOLATE,WHITECHOCOLATE,product_synonym,C01545.AA,1,RM,White Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00104,Dark Choc,DARK CHOC,DARKCHOC,product_synonym,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00105,Dark Chocolate,DARK CHOCOLATE,DARKCHOCOLATE,product_synonym,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00106,Dark Semi-Sweet Chocolate,DARK SEMI-SWEET CHOCOLATE,DARKSEMISWEETCHOCOLATE,product_synonym,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00107,Dark Semisweet Chocolate,DARK SEMISWEET CHOCOLATE,DARKSEMISWEETCHOCOLATE,product_synonym,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00108,Semi Sweet Chocolate,SEMI SWEET CHOCOLATE,SEMISWEETCHOCOLATE,product_synonym,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00109,Semisweet Chocolate,SEMISWEET CHOCOLATE,SEMISWEETCHOCOLATE,product_synonym,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,token_set_ratio on keyword_norm,88,synonym:chocolate wording
+KW00110,Frozen Strawberries Halved Peru,FROZEN STRAWBERRIES HALVED PERU,FROZENSTRAWBERRIESHALVEDPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00111,Frozen Strawberry Halves Peru,FROZEN STRAWBERRY HALVES PERU,FROZENSTRAWBERRYHALVESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00112,IQF Strawberries Halved Peru,IQF STRAWBERRIES HALVED PERU,IQFSTRAWBERRIESHALVEDPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00113,IQF Strawberries Halves Peru,IQF STRAWBERRIES HALVES PERU,IQFSTRAWBERRIESHALVESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00114,IQF Strawberries Peru,IQF STRAWBERRIES PERU,IQFSTRAWBERRIESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00115,IQF Strawberry Halved Peru,IQF STRAWBERRY HALVED PERU,IQFSTRAWBERRYHALVEDPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00116,IQF Strawberry Halves Peru,IQF STRAWBERRY HALVES PERU,IQFSTRAWBERRYHALVESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00117,IQF Strawberry Peru,IQF STRAWBERRY PERU,IQFSTRAWBERRYPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00118,Strawberries Halved Peru,STRAWBERRIES HALVED PERU,STRAWBERRIESHALVEDPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00119,"Strawberries, Halves IQF Peru",STRAWBERRIES HALVES IQF PERU,STRAWBERRIESHALVESIQFPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00120,Strawberries Halves Peru,STRAWBERRIES HALVES PERU,STRAWBERRIESHALVESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00121,Strawberries Peru,STRAWBERRIES PERU,STRAWBERRIESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00122,Strawberry Halved Peru,STRAWBERRY HALVED PERU,STRAWBERRYHALVEDPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00123,Strawberry Halves Peru,STRAWBERRY HALVES PERU,STRAWBERRYHALVESPERU,product_synonym,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00124,Frozen Strawberries Halved,FROZEN STRAWBERRIES HALVED,FROZENSTRAWBERRIESHALVED,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00125,Frozen Strawberry Halves,FROZEN STRAWBERRY HALVES,FROZENSTRAWBERRYHALVES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00126,IQF Strawberries,IQF STRAWBERRIES,IQFSTRAWBERRIES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00127,IQF Strawberries Halved,IQF STRAWBERRIES HALVED,IQFSTRAWBERRIESHALVED,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00128,IQF Strawberries Halves,IQF STRAWBERRIES HALVES,IQFSTRAWBERRIESHALVES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00129,IQF Strawberry,IQF STRAWBERRY,IQFSTRAWBERRY,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00130,IQF Strawberry Halved,IQF STRAWBERRY HALVED,IQFSTRAWBERRYHALVED,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00131,IQF Strawberry Halves,IQF STRAWBERRY HALVES,IQFSTRAWBERRYHALVES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00132,Strawberries,STRAWBERRIES,STRAWBERRIES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00133,Strawberries Halved,STRAWBERRIES HALVED,STRAWBERRIESHALVED,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00134,Strawberries Halves,STRAWBERRIES HALVES,STRAWBERRIESHALVES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00135,"Strawberries, Halves IQF",STRAWBERRIES HALVES IQF,STRAWBERRIESHALVESIQF,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00136,Strawberry Halved,STRAWBERRY HALVED,STRAWBERRYHALVED,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00137,Strawberry Halves,STRAWBERRY HALVES,STRAWBERRYHALVES,product_synonym,C01547.AB|C01547.AC|C01565.AA,3,RM,IQF Strawberry Halved Peru|IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording
+KW00138,Frozen Strawberries Halved USA,FROZEN STRAWBERRIES HALVED USA,FROZENSTRAWBERRIESHALVEDUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00139,Frozen Strawberry Halves USA,FROZEN STRAWBERRY HALVES USA,FROZENSTRAWBERRYHALVESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00140,IQF Strawberries Halved USA,IQF STRAWBERRIES HALVED USA,IQFSTRAWBERRIESHALVEDUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00141,IQF Strawberries Halves USA,IQF STRAWBERRIES HALVES USA,IQFSTRAWBERRIESHALVESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00142,IQF Strawberries USA,IQF STRAWBERRIES USA,IQFSTRAWBERRIESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00143,IQF Strawberry Halved USA,IQF STRAWBERRY HALVED USA,IQFSTRAWBERRYHALVEDUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00144,IQF Strawberry Halves USA,IQF STRAWBERRY HALVES USA,IQFSTRAWBERRYHALVESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00145,IQF Strawberry USA,IQF STRAWBERRY USA,IQFSTRAWBERRYUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00146,Strawberries Halved USA,STRAWBERRIES HALVED USA,STRAWBERRIESHALVEDUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00147,"Strawberries, Halves IQF USA",STRAWBERRIES HALVES IQF USA,STRAWBERRIESHALVESIQFUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,85,synonym:COA/BOL wording + origin
+KW00148,Strawberries Halves USA,STRAWBERRIES HALVES USA,STRAWBERRIESHALVESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00149,Strawberries USA,STRAWBERRIES USA,STRAWBERRIESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00150,Strawberry Halved USA,STRAWBERRY HALVED USA,STRAWBERRYHALVEDUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00151,Strawberry Halves USA,STRAWBERRY HALVES USA,STRAWBERRYHALVESUSA,product_synonym,C01547.AC|C01565.AA,2,RM,IQF Strawberry Halved USA|IQF Strawberry Halved USA (Organic/100% Content),Y,token_set_ratio on keyword_norm,88,synonym:COA/BOL wording + origin
+KW00152,Organic IQF Strawberry Halved,ORGANIC IQF STRAWBERRY HALVED,ORGANICIQFSTRAWBERRYHALVED,product_synonym,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,token_set_ratio on keyword_norm,85,synonym:organic
+KW00153,Organic Strawberries,ORGANIC STRAWBERRIES,ORGANICSTRAWBERRIES,product_synonym,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,token_set_ratio on keyword_norm,88,synonym:organic
+KW00154,Organic Strawberry Halves,ORGANIC STRAWBERRY HALVES,ORGANICSTRAWBERRYHALVES,product_synonym,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,token_set_ratio on keyword_norm,88,synonym:organic
+KW00155,USA,USA,USA,origin,C01544.AA|C01545.AA|C01546.AA|C01547.AC|C01565.AA,5,RM,,Y,exact (word boundary),100,derived:origin
+KW00156,Peru,PERU,PERU,origin,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,exact (word boundary),100,derived:origin
+KW00157,Organic,ORGANIC,ORGANIC,attribute,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,exact (word boundary),100,derived:organic
+KW00158,8 OZ,8 OZ,8OZ,pack_size,P00397|P00407|P00408|S02102.AA|S02103.AA,5,FG|PM,,Y,exact (word boundary),100,derived:pack size
+KW00159,18 OZ,18 OZ,18OZ,pack_size,P00398|P00409|P00410|S02104.AA|S02105.AA,5,FG|PM,,Y,exact (word boundary),100,derived:pack size
+KW00160,24 OZ,24 OZ,24OZ,pack_size,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,exact (word boundary),100,derived:pack size
+KW00161,Lbs,LBS,LBS,unit,C01544.AA|C01545.AA|C01546.AA|C01547.AB|C01547.AC|C01565.AA,6,RM,,Y,exact (word boundary),100,lineage.unit
+KW00162,Eaches,EACHES,EACHES,unit,P00397|P00398|P00399|P00407|P00408|P00409|P00410|P00412,8,PM,,Y,exact (word boundary),100,lineage.unit
+KW00163,Ft,FT,FT,unit,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,exact (word boundary),100,lineage.unit
+KW00164,Cases,CASES,CASES,unit,S02101.AA|S02102.AA|S02103.AA|S02104.AA|S02105.AA,5,FG,,Y,exact (word boundary),100,lineage.unit
+KW00165,Raw Material,RAW MATERIAL,RAWMATERIAL,item_class,C01544.AA|C01545.AA|C01546.AA|C01547.AB|C01547.AC|C01565.AA,6,RM,,Y,exact (word boundary),100,lineage.input_class
+KW00166,Packaging Material,PACKAGING MATERIAL,PACKAGINGMATERIAL,item_class,P00397|P00398|P00399|P00407|P00408|P00409|P00410|P00412|P00413,9,PM,,Y,exact (word boundary),100,lineage.input_class
+KW00167,Finished Good,FINISHED GOOD,FINISHEDGOOD,item_class,S02101.AA|S02102.AA|S02103.AA|S02104.AA|S02105.AA,5,FG,,Y,exact (word boundary),100,lineage.input_class
+KW00168,225108-01,225108-01,22510801,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00169,225111-01,225111-01,22511101,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00170,225123-01,225123-01,22512301,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00171,225269-01,225269-01,22526901,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00172,225284-01,225284-01,22528401,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00173,225285-01,225285-01,22528501,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00174,225286-01,225286-01,22528601,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00175,226019-01,226019-01,22601901,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00176,226020-01,226020-01,22602001,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00177,226059-01,226059-01,22605901,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00178,226060-01,226060-01,22606001,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00179,226078-01,226078-01,22607801,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00180,226079-01,226079-01,22607901,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00181,226080-01,226080-01,22608001,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00182,5259T680CL-15,5259T680CL-15,5259T680CL15,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00183,5260T630CL-15,5260T630CL-15,5260T630CL15,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00184,6038T108SL01,6038T108SL01,6038T108SL01,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00185,6038T110SL01,6038T110SL01,6038T110SL01,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00186,S0247775,S0247775,S0247775,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00187,S0247776,S0247776,S0247776,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00188,S0248933,S0248933,S0248933,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00189,S0248934,S0248934,S0248934,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00190,S0274842,S0274842,S0274842,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00191,SO247777,SO247777,SO247777,lot_input,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00192,225295-01,225295-01,22529501,lot_input,C01544.AA|C01545.AA,2,RM,Milk Chocolate USA|White Chocolate USA,Y,ratio on keyword_compact,92,lineage.input_lot
+KW00193,226058-01,226058-01,22605801,lot_input,C01544.AA|C01546.AA,2,RM,Milk Chocolate USA|Dark Semisweet Chocolate USA,Y,ratio on keyword_compact,92,lineage.input_lot
+KW00194,20260077841,20260077841,20260077841,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00195,225282-01,225282-01,22528201,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00196,225296-01,225296-01,22529601,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00197,225301-01,225301-01,22530101,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00198,225302-01,225302-01,22530201,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00199,225303-01,225303-01,22530301,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00200,225308-01,225308-01,22530801,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00201,325356-01,325356-01,32535601,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00202,325356-02,325356-02,32535602,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00203,325357-01,325357-01,32535701,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00204,326013-01,326013-01,32601301,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00205,326014-01,326014-01,32601401,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00206,326024-01,326024-01,32602401,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00207,326027-01,326027-01,32602701,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00208,326030-01,326030-01,32603001,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00209,326033-01,326033-01,32603301,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00210,326034-01,326034-01,32603401,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00211,326075-01,326075-01,32607501,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00212,326076-01,326076-01,32607601,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00213,326078-01,326078-01,32607801,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00214,326090-01,326090-01,32609001,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00215,326091-01,326091-01,32609101,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00216,326092-01,326092-01,32609201,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00217,326103-01,326103-01,32610301,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00218,326104-01,326104-01,32610401,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00219,326105-01,326105-01,32610501,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00220,326110-01,326110-01,32611001,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00221,326111-01,326111-01,32611101,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00222,326112-01,326112-01,32611201,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00223,6036WH71CL10,6036WH71CL10,6036WH71CL10,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00224,6037WH72CL10,6037WH72CL10,6037WH72CL10,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00225,6066WH72CL10,6066WH72CL10,6066WH72CL10,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00226,6069WH73CL10,6069WH73CL10,6069WH73CL10,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00227,S0245464,S0245464,S0245464,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00228,S0246260,S0246260,S0246260,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00229,S0248854,S0248854,S0248854,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00230,S0248855,S0248855,S0248855,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00231,S0248859,S0248859,S0248859,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00232,S0248861,S0248861,S0248861,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00233,SO245158,SO245158,SO245158,lot_input,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00234,220657-01,220657-01,22065701,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00235,226057-01,226057-01,22605701,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00236,226100-01,226100-01,22610001,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00237,5225CH43CL15,5225CH43CL15,5225CH43CL15,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00238,5275T640CL15,5275T640CL15,5275T640CL15,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00239,5292CH42CL15,5292CH42CL15,5292CH42CL15,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00240,5308T680CL15,5308T680CL15,5308T680CL15,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00241,6022T630CL15,6022T630CL15,6022T630CL15,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00242,6023T640CL15,6023T640CL15,6023T640CL15,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00243,6080CH43CL10,6080CH43CL10,6080CH43CL10,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00244,6080CH44CL10,6080CH44CL10,6080CH44CL10,lot_input,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,lineage.input_lot
+KW00245,LC24353,LC24353,LC24353,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00246,LC2516,LC2516,LC2516,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00247,LC25188,LC25188,LC25188,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00248,LC25190,LC25190,LC25190,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00249,LC25193,LC25193,LC25193,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00250,LC25195,LC25195,LC25195,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00251,LC25196,LC25196,LC25196,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00252,LC25197,LC25197,LC25197,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00253,LC25205,LC25205,LC25205,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00254,LC25207,LC25207,LC25207,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00255,LC25210,LC25210,LC25210,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00256,LC25213,LC25213,LC25213,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00257,LC25216,LC25216,LC25216,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00258,LC25220,LC25220,LC25220,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00259,LC25275,LC25275,LC25275,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00260,LC25276,LC25276,LC25276,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00261,LC25277,LC25277,LC25277,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00262,LC25278,LC25278,LC25278,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00263,LC25279,LC25279,LC25279,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00264,LC25280,LC25280,LC25280,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00265,LC25281,LC25281,LC25281,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00266,LC25282,LC25282,LC25282,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00267,LC25283,LC25283,LC25283,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00268,LC25284,LC25284,LC25284,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00269,LC25285,LC25285,LC25285,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00270,LC25287,LC25287,LC25287,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00271,LC25288,LC25288,LC25288,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00272,LC25289,LC25289,LC25289,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00273,LC25290,LC25290,LC25290,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00274,LC25291,LC25291,LC25291,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00275,LC25293,LC25293,LC25293,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00276,LC25295,LC25295,LC25295,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00277,LC25296,LC25296,LC25296,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00278,LC25297,LC25297,LC25297,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00279,LC25BL,LC25BL,LC25BL,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00280,LC25BLA,LC25BLA,LC25BLA,lot_input,C01547.AB,1,RM,IQF Strawberry Halved Peru,N,ratio on keyword_compact,95,lineage.input_lot
+KW00281,250918A,250918A,250918A,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00282,250918B,250918B,250918B,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00283,250918C,250918C,250918C,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00284,250918D,250918D,250918D,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00285,250919B,250919B,250919B,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00286,250919C,250919C,250919C,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00287,2512221,2512221,2512221,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00288,2512222,2512222,2512222,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00289,2512223,2512223,2512223,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00290,251222A,251222A,251222A,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00291,251222B,251222B,251222B,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00292,251222C,251222C,251222C,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00293,251222D,251222D,251222D,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00294,251223,251223,251223,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00295,2512231,2512231,2512231,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00296,2512232,2512232,2512232,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00297,251223A,251223A,251223A,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00298,251223B,251223B,251223B,lot_input,C01547.AC,1,RM,IQF Strawberry Halved USA,N,ratio on keyword_compact,95,lineage.input_lot
+KW00299,250904A,250904A,250904A,lot_input,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,lineage.input_lot
+KW00300,250904B,250904B,250904B,lot_input,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,lineage.input_lot
+KW00301,250912A,250912A,250912A,lot_input,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,lineage.input_lot
+KW00302,250912B,250912B,250912B,lot_input,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,lineage.input_lot
+KW00303,250917A,250917A,250917A,lot_input,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,lineage.input_lot
+KW00304,250917B,250917B,250917B,lot_input,C01565.AA,1,RM,IQF Strawberry Halved USA (Organic/100% Content),N,ratio on keyword_compact,95,lineage.input_lot
+KW00305,20250069681,20250069681,20250069681,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00306,20250069682,20250069682,20250069682,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00307,20250071365,20250071365,20250071365,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00308,20250071366,20250071366,20250071366,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00309,20250075915,20250075915,20250075915,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00310,20260077125,20260077125,20260077125,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00311,20260077126,20260077126,20260077126,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00312,20260077127,20260077127,20260077127,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00313,20260077352,20260077352,20260077352,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00314,20260077354,20260077354,20260077354,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00315,20260077357,20260077357,20260077357,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00316,20260081126,20260081126,20260081126,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00317,20260081127,20260081127,20260081127,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00318,20260081128,20260081128,20260081128,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00319,20260081129,20260081129,20260081129,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00320,20260081469,20260081469,20260081469,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00321,20260081966,20260081966,20260081966,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00322,20260084690,20260084690,20260084690,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00323,20260084693,20260084693,20260084693,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00324,20260084694,20260084694,20260084694,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00325,20260086175,20260086175,20260086175,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00326,20260177352,20260177352,20260177352,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00327,20260277352,20260277352,20260277352,lot_input,P00397,1,PM,Tru Fru 8 OZ – 6CT Printed Box 6.875IN H 6.938IN W 11.125IN L 32 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00328,20250069694,20250069694,20250069694,lot_input,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00329,20250075918,20250075918,20250075918,lot_input,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00330,20250169089,20250169089,20250169089,lot_input,P00398,1,PM,Tru Fru 18 OZ – 6CT Kraft Box 6.5IN H 8IN W 13IN L 44 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00331,20250069413,20250069413,20250069413,lot_input,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00332,20260081914,20260081914,20260081914,lot_input,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00333,20260085481,20260085481,20260085481,lot_input,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,92,lineage.input_lot
+KW00334,487665,487665,487665,lot_input,P00399,1,PM,Tru Fru Strawberry Milk Choc. Club Tray Printed Box 10.375IN H 15.375IN W 18.625IN L 44 ECT,N,ratio on keyword_compact,95,lineage.input_lot
+KW00335,20250071370,20250071370,20250071370,lot_input,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00336,20250169839,20250169839,20250169839,lot_input,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00337,20250275912,20250275912,20250275912,lot_input,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00338,20260082686,20260082686,20260082686,lot_input,P00407,1,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00339,20260078457,20260078457,20260078457,lot_input,P00407|P00408,2,PM,Tru Fru Milk Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL|Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,Y,ratio on keyword_compact,92,lineage.input_lot
+KW00340,20250071392,20250071392,20250071392,lot_input,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00341,20260077336,20260077336,20260077336,lot_input,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00342,20260084476,20260084476,20260084476,lot_input,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00343,6207212,6207212,6207212,lot_input,P00408,1,PM,Tru Fru Dark Chocolate Strawberry Printed 8 OZ Pouch 178mm W 154mm L 50mm G 3.5 MIL,N,ratio on keyword_compact,95,lineage.input_lot
+KW00344,20250069839,20250069839,20250069839,lot_input,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00345,20250071371,20250071371,20250071371,lot_input,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00346,20250075912,20250075912,20250075912,lot_input,P00409,1,PM,Tru Fru Milk Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00347,20250072241,20250072241,20250072241,lot_input,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00348,20250172241,20250172241,20250172241,lot_input,P00410,1,PM,Tru Fru Dark Chocolate Strawberry Printed 18 OZ Pouch 213.8mm W 216mm L 90mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00349,20250074652,20250074652,20250074652,lot_input,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00350,20260077332,20260077332,20260077332,lot_input,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00351,20260077335,20260077335,20260077335,lot_input,P00412,1,PM,Tru Fru/Costco Milk Chocolate Strawberry Printed Pouch 207.4mm W 223mm L 76mm G 3.5 MIL,N,ratio on keyword_compact,92,lineage.input_lot
+KW00352,20250069630,20250069630,20250069630,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00353,20250071369,20250071369,20250071369,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00354,20260077340,20260077340,20260077340,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00355,20260077341,20260077341,20260077341,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00356,20260077347,20260077347,20260077347,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00357,20260081122,20260081122,20260081122,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00358,20260082143,20260082143,20260082143,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00359,20260177347,20260177347,20260177347,lot_input,P00413,1,PM,Tru Fru Zipper 11mm +/- 0.3mm W 17000FT L,N,ratio on keyword_compact,92,lineage.input_lot
+KW00360,607A25VD01,607A25VD01,607A25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00361,607B15VD01,607B15VD01,607B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00362,607B25VD01,607B25VD01,607B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00363,607C15VD01,607C15VD01,607C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00364,607C25VD01,607C25VD01,607C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00365,607D15VD01,607D15VD01,607D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00366,607D25VD01,607D25VD01,607D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00367,607E15VD01,607E15VD01,607E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00368,607E25VD01,607E25VD01,607E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00369,609A15VD01,609A15VD01,609A15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00370,609A25VD01,609A25VD01,609A25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00371,609B15VD01,609B15VD01,609B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00372,609B25VD01,609B25VD01,609B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00373,609C15VD01,609C15VD01,609C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00374,609C25VD01,609C25VD01,609C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00375,609D15VD01,609D15VD01,609D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00376,609D25VD01,609D25VD01,609D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00377,609E15VD01,609E15VD01,609E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00378,609E25VD01,609E25VD01,609E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00379,613A25VD01,613A25VD01,613A25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00380,613B15VD01,613B15VD01,613B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00381,613B25VD01,613B25VD01,613B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00382,613C15VD01,613C15VD01,613C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00383,613C25VD01,613C25VD01,613C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00384,613D15VD01,613D15VD01,613D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00385,613D25VD01,613D25VD01,613D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00386,613E15VD01,613E15VD01,613E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00387,613E25VD01,613E25VD01,613E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00388,619A15VD01,619A15VD01,619A15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00389,619A25VD01,619A25VD01,619A25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00390,619B15VD01,619B15VD01,619B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00391,619B25VD01,619B25VD01,619B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00392,619C15VD01,619C15VD01,619C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00393,619C25VD01,619C25VD01,619C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00394,619D15VD01,619D15VD01,619D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00395,619D25VD01,619D25VD01,619D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00396,619E15VD01,619E15VD01,619E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00397,619E25VD01,619E25VD01,619E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00398,620A15VD01,620A15VD01,620A15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00399,620A25VD01,620A25VD01,620A25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00400,620B15VD01,620B15VD01,620B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00401,620B25VD01,620B25VD01,620B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00402,620C15VD01,620C15VD01,620C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00403,620C25VD01,620C25VD01,620C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00404,620D15VD01,620D15VD01,620D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00405,620D25VD01,620D25VD01,620D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00406,620E15VD01,620E15VD01,620E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00407,620E25VD01,620E25VD01,620E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00408,621A15VD01,621A15VD01,621A15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00409,621A25VD01,621A25VD01,621A25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00410,621B15VD01,621B15VD01,621B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00411,621B25VD01,621B25VD01,621B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00412,621C15VD01,621C15VD01,621C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00413,621C25VD01,621C25VD01,621C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00414,621D15VD01,621D15VD01,621D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00415,621D25VD01,621D25VD01,621D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00416,621E15VD01,621E15VD01,621E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00417,621E25VD01,621E25VD01,621E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00418,622B15VD01,622B15VD01,622B15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00419,622B25VD01,622B25VD01,622B25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00420,622C15VD01,622C15VD01,622C15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00421,622C25VD01,622C25VD01,622C25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00422,622D15VD01,622D15VD01,622D15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00423,622D25VD01,622D25VD01,622D25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00424,622E15VD01,622E15VD01,622E15VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00425,622E25VD01,622E25VD01,622E25VD01,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00426,TESTING_DARK,TESTING DARK,TESTINGDARK,lot_fg,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00427,548B15VD01,548B15VD01,548B15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00428,549E15VD02,549E15VD02,549E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00429,551C15VD02,551C15VD02,551C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00430,551C25VD02,551C25VD02,551C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00431,551D15VD02,551D15VD02,551D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00432,551D25VD02,551D25VD02,551D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00433,551E15VD01,551E15VD01,551E15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00434,551E15VD02,551E15VD02,551E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00435,551E25VD01,551E25VD01,551E25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00436,552A15VD01,552A15VD01,552A15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00437,552A15VD02,552A15VD02,552A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00438,552A25VD01,552A25VD01,552A25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00439,552A25VD02,552A25VD02,552A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00440,552B15VD01,552B15VD01,552B15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00441,552B15VD02,552B15VD02,552B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00442,552B25VD01,552B25VD01,552B25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00443,552B25VD02,552B25VD02,552B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00444,552C15VD02,552C15VD02,552C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00445,602A15VD01,602A15VD01,602A15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00446,602A15VD02,602A15VD02,602A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00447,602A25VD01,602A25VD01,602A25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00448,602A25VD02,602A25VD02,602A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00449,602B15VD01,602B15VD01,602B15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00450,602B15VD02,602B15VD02,602B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00451,602B25VD01,602B25VD01,602B25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00452,602B25VD02,602B25VD02,602B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00453,602C15VD01,602C15VD01,602C15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00454,602C15VD02,602C15VD02,602C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00455,602C25VD01,602C25VD01,602C25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00456,602C25VD02,602C25VD02,602C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00457,602D15VD01,602D15VD01,602D15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00458,602D15VD02,602D15VD02,602D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00459,602D25VD01,602D25VD01,602D25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00460,602D25VD02,602D25VD02,602D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00461,602E15VD01,602E15VD01,602E15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00462,602E15VD02,602E15VD02,602E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00463,602E25VD01,602E25VD01,602E25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00464,603A15VD01,603A15VD01,603A15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00465,603A25VD01,603A25VD01,603A25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00466,603B15VD01,603B15VD01,603B15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00467,603B25VD01,603B25VD01,603B25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00468,603C15VD01,603C15VD01,603C15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00469,603C25VD01,603C25VD01,603C25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00470,603D15VD01,603D15VD01,603D15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00471,603D15VD02,603D15VD02,603D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00472,603D25VD01,603D25VD01,603D25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00473,603D25VD02,603D25VD02,603D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00474,603E15VD01,603E15VD01,603E15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00475,603E15VD02,603E15VD02,603E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00476,604A15VD01,604A15VD01,604A15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00477,604A25VD01,604A25VD01,604A25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00478,604B15VD01,604B15VD01,604B15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00479,604B25VD01,604B25VD01,604B25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00480,604C15VD01,604C15VD01,604C15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00481,604C25VD01,604C25VD01,604C25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00482,604D15VD01,604D15VD01,604D15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00483,604D25VD01,604D25VD01,604D25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00484,604E15VD01,604E15VD01,604E15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00485,604E25VD01,604E25VD01,604E25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00486,607A15VD02,607A15VD02,607A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00487,607A25VD02,607A25VD02,607A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00488,607A35VD02,607A35VD02,607A35VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00489,607B15VD02,607B15VD02,607B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00490,607B25VD02,607B25VD02,607B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00491,607C15VD02,607C15VD02,607C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00492,607C25VD02,607C25VD02,607C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00493,607C35VD02,607C35VD02,607C35VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00494,607D15VD02,607D15VD02,607D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00495,607D25VD02,607D25VD02,607D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00496,607E15VD02,607E15VD02,607E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00497,607E25VD02,607E25VD02,607E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00498,613A25VD02,613A25VD02,613A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00499,613B15VD02,613B15VD02,613B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00500,613B25VD02,613B25VD02,613B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00501,613C15VD02,613C15VD02,613C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00502,613C25VD02,613C25VD02,613C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00503,613D15VD02,613D15VD02,613D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00504,613D25VD02,613D25VD02,613D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00505,613E15VD02,613E15VD02,613E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00506,613E25VD02,613E25VD02,613E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00507,614A15VD02,614A15VD02,614A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00508,614A25VD02,614A25VD02,614A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00509,614A35VD02,614A35VD02,614A35VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00510,614B15VD01,614B15VD01,614B15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00511,614B15VD02,614B15VD02,614B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00512,614B25VD01,614B25VD01,614B25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00513,614B25VD02,614B25VD02,614B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00514,614C15VD01,614C15VD01,614C15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00515,614C15VD02,614C15VD02,614C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00516,614C25VD01,614C25VD01,614C25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00517,614C25VD02,614C25VD02,614C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00518,614D15VD01,614D15VD01,614D15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00519,614D15VD02,614D15VD02,614D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00520,614D25VD01,614D25VD01,614D25VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00521,614D25VD02,614D25VD02,614D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00522,614E15VD01,614E15VD01,614E15VD01,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00523,614E15VD02,614E15VD02,614E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00524,617A15VD02,617A15VD02,617A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00525,617A25VD02,617A25VD02,617A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00526,617B15VD02,617B15VD02,617B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00527,617B25VD02,617B25VD02,617B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00528,617C15VD02,617C15VD02,617C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00529,617C25VD02,617C25VD02,617C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00530,617D15VD02,617D15VD02,617D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00531,617D25VD02,617D25VD02,617D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00532,617E15VD02,617E15VD02,617E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00533,617E25VD02,617E25VD02,617E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00534,619A15VD02,619A15VD02,619A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00535,619A25VD02,619A25VD02,619A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00536,619A35VD02,619A35VD02,619A35VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00537,619B15VD02,619B15VD02,619B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00538,619B25VD02,619B25VD02,619B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00539,619C15VD02,619C15VD02,619C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00540,619C25VD02,619C25VD02,619C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00541,619D15VD02,619D15VD02,619D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00542,619D25VD02,619D25VD02,619D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00543,619E15VD02,619E15VD02,619E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00544,619E25VD02,619E25VD02,619E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00545,620A15VD02,620A15VD02,620A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00546,620A25VD02,620A25VD02,620A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00547,620B15VD02,620B15VD02,620B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00548,620B25VD02,620B25VD02,620B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00549,620C15VD02,620C15VD02,620C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00550,620C25VD02,620C25VD02,620C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00551,620D15VD02,620D15VD02,620D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00552,620D25VD02,620D25VD02,620D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00553,620E15VD02,620E15VD02,620E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00554,620E25VD02,620E25VD02,620E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00555,621A15VD02,621A15VD02,621A15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00556,621A25VD02,621A25VD02,621A25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00557,621B15VD02,621B15VD02,621B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00558,621B25VD02,621B25VD02,621B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00559,621C15VD02,621C15VD02,621C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00560,621C25VD02,621C25VD02,621C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00561,621D15VD02,621D15VD02,621D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00562,621D25VD02,621D25VD02,621D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00563,621E15VD02,621E15VD02,621E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00564,621E25VD02,621E25VD02,621E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00565,622B15VD02,622B15VD02,622B15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00566,622B25VD02,622B25VD02,622B25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00567,622C15VD02,622C15VD02,622C15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00568,622C25VD02,622C25VD02,622C25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00569,622D15VD02,622D15VD02,622D15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00570,622D25VD02,622D25VD02,622D25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00571,622E15VD02,622E15VD02,622E15VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00572,622E25VD02,622E25VD02,622E25VD02,lot_fg,S02102.AA,1,FG,Fruit Enrobing Strawberry Milk 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00573,605A15VD01,605A15VD01,605A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00574,605A25VD01,605A25VD01,605A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00575,605B15VD01,605B15VD01,605B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00576,605B25VD01,605B25VD01,605B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00577,605C15VD01,605C15VD01,605C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00578,605C25VD01,605C25VD01,605C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00579,605D15VD01,605D15VD01,605D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00580,605D25VD01,605D25VD01,605D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00581,605E15VD01,605E15VD01,605E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00582,605E25VD01,605E25VD01,605E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00583,606A15VD01,606A15VD01,606A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00584,606A25VD01,606A25VD01,606A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00585,606B15VD01,606B15VD01,606B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00586,606B25VD01,606B25VD01,606B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00587,606C15VD01,606C15VD01,606C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00588,606C25VD01,606C25VD01,606C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00589,606C35VD01,606C35VD01,606C35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00590,606D25VD01,606D25VD01,606D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00591,606D25VD02,606D25VD02,606D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00592,606E15VD01,606E15VD01,606E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00593,606E15VD02,606E15VD02,606E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00594,606E25VD01,606E25VD01,606E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00595,606E25VD02,606E25VD02,606E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00596,608A15VD02,608A15VD02,608A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00597,608A25VD01,608A25VD01,608A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00598,608A25VD02,608A25VD02,608A25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00599,608A35VD01,608A35VD01,608A35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00600,608A35VD02,608A35VD02,608A35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00601,608B15VD01,608B15VD01,608B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00602,608B15VD02,608B15VD02,608B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00603,608B25VD01,608B25VD01,608B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00604,608B25VD02,608B25VD02,608B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00605,608C15VD01,608C15VD01,608C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00606,608C25VD01,608C25VD01,608C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00607,608C25VD02,608C25VD02,608C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00608,608D15VD01,608D15VD01,608D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00609,608D15VD02,608D15VD02,608D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00610,608D25VD01,608D25VD01,608D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00611,608D25VD02,608D25VD02,608D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00612,608D35VD01,608D35VD01,608D35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00613,608D35VD02,608D35VD02,608D35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00614,608E15VD01,608E15VD01,608E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00615,608E15VD02,608E15VD02,608E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00616,608E25VD01,608E25VD01,608E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00617,608E25VD02,608E25VD02,608E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00618,610A15VD01,610A15VD01,610A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00619,610A25VD01,610A25VD01,610A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00620,610B15VD01,610B15VD01,610B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00621,610B25VD01,610B25VD01,610B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00622,610C15VD01,610C15VD01,610C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00623,610C15VD02,610C15VD02,610C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00624,610C25VD01,610C25VD01,610C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00625,610C25VD02,610C25VD02,610C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00626,610D15VD01,610D15VD01,610D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00627,610D15VD02,610D15VD02,610D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00628,610D25VD01,610D25VD01,610D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00629,610D25VD02,610D25VD02,610D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00630,610E15VD01,610E15VD01,610E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00631,610E15VD02,610E15VD02,610E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00632,610E25VD01,610E25VD01,610E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00633,610E25VD02,610E25VD02,610E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00634,611A15VD01,611A15VD01,611A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00635,611A15VD02,611A15VD02,611A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00636,611A25VD01,611A25VD01,611A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00637,611A25VD02,611A25VD02,611A25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00638,611B15VD01,611B15VD01,611B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00639,611B15VD02,611B15VD02,611B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00640,611B25VD01,611B25VD01,611B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00641,611B25VD02,611B25VD02,611B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00642,611C15VD02,611C15VD02,611C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00643,611C25VD02,611C25VD02,611C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00644,611C35VD02,611C35VD02,611C35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00645,611D15VD01,611D15VD01,611D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00646,611D15VD02,611D15VD02,611D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00647,611D25VD01,611D25VD01,611D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00648,611D25VD02,611D25VD02,611D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00649,611D35VD01,611D35VD01,611D35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00650,611E15VD01,611E15VD01,611E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00651,611E15VD02,611E15VD02,611E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00652,611E25VD01,611E25VD01,611E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00653,611E25VD02,611E25VD02,611E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00654,612A15VD01,612A15VD01,612A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00655,612A15VD02,612A15VD02,612A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00656,612A25VD01,612A25VD01,612A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00657,612A25VD02,612A25VD02,612A25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00658,612A35VD01,612A35VD01,612A35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00659,612A35VD02,612A35VD02,612A35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00660,612B15VD01,612B15VD01,612B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00661,612B15VD02,612B15VD02,612B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00662,612B25VD01,612B25VD01,612B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00663,612B25VD02,612B25VD02,612B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00664,612C15VD01,612C15VD01,612C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00665,612C15VD02,612C15VD02,612C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00666,612C25VD01,612C25VD01,612C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00667,612C25VD02,612C25VD02,612C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00668,612C35VD02,612C35VD02,612C35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00669,612D15VD01,612D15VD01,612D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00670,612D15VD02,612D15VD02,612D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00671,612D25VD01,612D25VD01,612D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00672,612D25VD02,612D25VD02,612D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00673,612D35VD01,612D35VD01,612D35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00674,612D35VD02,612D35VD02,612D35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00675,612E15VD01,612E15VD01,612E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00676,612E15VD02,612E15VD02,612E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00677,612E25VD01,612E25VD01,612E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00678,612E25VD02,612E25VD02,612E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00679,615A15VD01,615A15VD01,615A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00680,615A15VD02,615A15VD02,615A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00681,615A25VD01,615A25VD01,615A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00682,615A25VD02,615A25VD02,615A25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00683,615B15VD01,615B15VD01,615B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00684,615B15VD02,615B15VD02,615B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00685,615B25VD01,615B25VD01,615B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00686,615B25VD02,615B25VD02,615B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00687,615C15VD01,615C15VD01,615C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00688,615C15VD02,615C15VD02,615C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00689,615C25VD01,615C25VD01,615C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00690,615C25VD02,615C25VD02,615C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00691,615D15VD01,615D15VD01,615D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00692,615D15VD02,615D15VD02,615D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00693,615D25VD01,615D25VD01,615D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00694,615D25VD02,615D25VD02,615D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00695,615E15VD01,615E15VD01,615E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00696,615E15VD02,615E15VD02,615E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00697,615E25VD01,615E25VD01,615E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00698,615E25VD02,615E25VD02,615E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00699,616A15VD01,616A15VD01,616A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00700,616A15VD02,616A15VD02,616A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00701,616A25VD01,616A25VD01,616A25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00702,616A25VD02,616A25VD02,616A25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00703,616B15VD01,616B15VD01,616B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00704,616B15VD02,616B15VD02,616B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00705,616B25VD01,616B25VD01,616B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00706,616B25VD02,616B25VD02,616B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00707,616B35VD01,616B35VD01,616B35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00708,616B35VD02,616B35VD02,616B35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00709,616C15VD01,616C15VD01,616C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00710,616C15VD02,616C15VD02,616C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00711,616C25VD01,616C25VD01,616C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00712,616C25VD02,616C25VD02,616C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00713,616D15VD02,616D15VD02,616D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00714,616D25VD02,616D25VD02,616D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00715,616E15VD02,616E15VD02,616E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00716,616E25VD02,616E25VD02,616E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00717,616E35VD02,616E35VD02,616E35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00718,618A15VD01,618A15VD01,618A15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00719,618A15VD02,618A15VD02,618A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00720,618B15VD01,618B15VD01,618B15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00721,618B15VD02,618B15VD02,618B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00722,618B25VD01,618B25VD01,618B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00723,618B25VD02,618B25VD02,618B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00724,618B35VD01,618B35VD01,618B35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00725,618B35VD02,618B35VD02,618B35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00726,618C15VD01,618C15VD01,618C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00727,618C15VD02,618C15VD02,618C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00728,618C25VD01,618C25VD01,618C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00729,618C25VD02,618C25VD02,618C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00730,618C35VD01,618C35VD01,618C35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00731,618C35VD02,618C35VD02,618C35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00732,618D15VD01,618D15VD01,618D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00733,618D15VD02,618D15VD02,618D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00734,618D25VD01,618D25VD01,618D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00735,618D25VD02,618D25VD02,618D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00736,618D35VD01,618D35VD01,618D35VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00737,618D35VD02,618D35VD02,618D35VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00738,618E15VD01,618E15VD01,618E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00739,618E15VD02,618E15VD02,618E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00740,618E25VD01,618E25VD01,618E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00741,618E25VD02,618E25VD02,618E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00742,623A15VD02,623A15VD02,623A15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00743,623A25VD02,623A25VD02,623A25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00744,623B15VD02,623B15VD02,623B15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00745,623B25VD01,623B25VD01,623B25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00746,623B25VD02,623B25VD02,623B25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00747,623C15VD01,623C15VD01,623C15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00748,623C15VD02,623C15VD02,623C15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00749,623C25VD01,623C25VD01,623C25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00750,623C25VD02,623C25VD02,623C25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00751,623D15VD01,623D15VD01,623D15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00752,623D15VD02,623D15VD02,623D15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00753,623D25VD01,623D25VD01,623D25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00754,623D25VD02,623D25VD02,623D25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00755,623E15VD01,623E15VD01,623E15VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00756,623E15VD02,623E15VD02,623E15VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00757,623E25VD01,623E25VD01,623E25VD01,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00758,623E25VD02,623E25VD02,623E25VD02,lot_fg,S02103.AA,1,FG,Fruit Enrobing Strawberry Dark DI 8 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00759,550A25VD01,550A25VD01,550A25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00760,550B15VD02,550B15VD02,550B15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00761,550B25VD01,550B25VD01,550B25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00762,551B15VD01,551B15VD01,551B15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00763,551B25VD01,551B25VD01,551B25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00764,551C15VD01,551C15VD01,551C15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00765,551C25VD01,551C25VD01,551C25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00766,551D15VD01,551D15VD01,551D15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00767,551D25VD01,551D25VD01,551D25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00768,604A15VD02,604A15VD02,604A15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00769,604B15VD02,604B15VD02,604B15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00770,604B25VD02,604B25VD02,604B25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00771,604C15VD02,604C15VD02,604C15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00772,604C25VD02,604C25VD02,604C25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00773,609A15VD02,609A15VD02,609A15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00774,609A25VD02,609A25VD02,609A25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00775,609B15VD02,609B15VD02,609B15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00776,609B25VD02,609B25VD02,609B25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00777,609C25VD02,609C25VD02,609C25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00778,609D15VD02,609D15VD02,609D15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00779,609D25VD02,609D25VD02,609D25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00780,609E15VD02,609E15VD02,609E15VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00781,609E25VD02,609E25VD02,609E25VD02,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00782,617A15VD01,617A15VD01,617A15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00783,617A25VD01,617A25VD01,617A25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00784,617B15VD01,617B15VD01,617B15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00785,617B25VD01,617B25VD01,617B25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00786,617C15VD01,617C15VD01,617C15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00787,617C25VD01,617C25VD01,617C25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00788,617D15VD01,617D15VD01,617D15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00789,617D25VD01,617D25VD01,617D25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00790,617E15VD01,617E15VD01,617E15VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00791,617E25VD01,617E25VD01,617E25VD01,lot_fg,S02104.AA,1,FG,Fruit Enrobing Strawberry Milk 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00792,610A15VD02,610A15VD02,610A15VD02,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00793,610A25VD02,610A25VD02,610A25VD02,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00794,610B15VD02,610B15VD02,610B15VD02,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00795,616D15VD01,616D15VD01,616D15VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00796,616D25VD01,616D25VD01,616D25VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00797,616E15VD01,616E15VD01,616E15VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00798,616E25VD01,616E25VD01,616E25VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00799,616E35VD01,616E35VD01,616E35VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00800,623A15VD01,623A15VD01,623A15VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00801,623A25VD01,623A25VD01,623A25VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00802,623B15VD01,623B15VD01,623B15VD01,lot_fg,S02105.AA,1,FG,Fruit Enrobing Strawberry Dark 18 OZ,N,ratio on keyword_compact,92,lineage.fg_lot
+KW00803,22510801,22510801,22510801,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00804,22511101,22511101,22511101,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00805,22512301,22512301,22512301,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00806,22526901,22526901,22526901,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00807,22528401,22528401,22528401,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00808,22528501,22528501,22528501,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00809,22528601,22528601,22528601,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00810,22601901,22601901,22601901,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00811,22602001,22602001,22602001,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00812,22605901,22605901,22605901,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00813,22606001,22606001,22606001,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00814,22607801,22607801,22607801,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00815,22607901,22607901,22607901,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00816,22608001,22608001,22608001,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00817,5259T680CL15,5259T680CL15,5259T680CL15,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00818,5260T630CL15,5260T630CL15,5260T630CL15,lot_compact,C01544.AA,1,RM,Milk Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00819,22529501,22529501,22529501,lot_compact,C01544.AA|C01545.AA,2,RM,Milk Chocolate USA|White Chocolate USA,Y,ratio on keyword_compact,92,derived:lot without punctuation
+KW00820,22605801,22605801,22605801,lot_compact,C01544.AA|C01546.AA,2,RM,Milk Chocolate USA|Dark Semisweet Chocolate USA,Y,ratio on keyword_compact,92,derived:lot without punctuation
+KW00821,22528201,22528201,22528201,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00822,22529601,22529601,22529601,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00823,22530101,22530101,22530101,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00824,22530201,22530201,22530201,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00825,22530301,22530301,22530301,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00826,22530801,22530801,22530801,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00827,32535601,32535601,32535601,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00828,32535602,32535602,32535602,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00829,32535701,32535701,32535701,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00830,32601301,32601301,32601301,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00831,32601401,32601401,32601401,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00832,32602401,32602401,32602401,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00833,32602701,32602701,32602701,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00834,32603001,32603001,32603001,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00835,32603301,32603301,32603301,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00836,32603401,32603401,32603401,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00837,32607501,32607501,32607501,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00838,32607601,32607601,32607601,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00839,32607801,32607801,32607801,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00840,32609001,32609001,32609001,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00841,32609101,32609101,32609101,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00842,32609201,32609201,32609201,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00843,32610301,32610301,32610301,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00844,32610401,32610401,32610401,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00845,32610501,32610501,32610501,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00846,32611001,32611001,32611001,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00847,32611101,32611101,32611101,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00848,32611201,32611201,32611201,lot_compact,C01545.AA,1,RM,White Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00849,22065701,22065701,22065701,lot_compact,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00850,22605701,22605701,22605701,lot_compact,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00851,22610001,22610001,22610001,lot_compact,C01546.AA,1,RM,Dark Semisweet Chocolate USA,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00852,TESTINGDARK,TESTINGDARK,TESTINGDARK,lot_compact,S02101.AA,1,FG,Fruit Enrobing Strawberry Milk 24 OZ,N,ratio on keyword_compact,92,derived:lot without punctuation
+KW00853,2026097560,2026097560,2026097560,production_no,C01544.AA|C01545.AA|C01547.AB|C01547.AC|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,11,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00854,2026097618,2026097618,2026097618,production_no,C01544.AA|C01545.AA|C01547.AB|C01547.AC|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,11,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00855,2026100513,2026100513,2026100513,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00856,2026100514,2026100514,2026100514,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00857,2026100515,2026100515,2026100515,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00858,2026100516,2026100516,2026100516,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00859,2026100518,2026100518,2026100518,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00860,2026097619,2026097619,2026097619,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00861,2026097620,2026097620,2026097620,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00862,2026097621,2026097621,2026097621,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00863,2026099325,2026099325,2026099325,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00864,2026099326,2026099326,2026099326,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00865,2026099327,2026099327,2026099327,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00866,2026099329,2026099329,2026099329,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00867,2026099330,2026099330,2026099330,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00868,2026101061,2026101061,2026101061,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00869,2026101062,2026101062,2026101062,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00870,2026101063,2026101063,2026101063,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00871,2026101064,2026101064,2026101064,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00872,2026101066,2026101066,2026101066,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00873,2026101214,2026101214,2026101214,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00874,2026101215,2026101215,2026101215,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00875,2026101216,2026101216,2026101216,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00876,2026101217,2026101217,2026101217,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00877,2026101218,2026101218,2026101218,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00878,2026101219,2026101219,2026101219,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00879,2026101220,2026101220,2026101220,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00880,2026101221,2026101221,2026101221,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00881,2026101222,2026101222,2026101222,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00882,2026101223,2026101223,2026101223,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00883,2026101224,2026101224,2026101224,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00884,2026101226,2026101226,2026101226,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00885,2026101227,2026101227,2026101227,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00886,2026101228,2026101228,2026101228,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00399|P00407|P00412|P00413|S02101.AA|S02102.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00887,2025095145,2025095145,2025095145,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00888,2025095294,2025095294,2025095294,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00889,2026099613,2026099613,2026099613,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00890,2026099614,2026099614,2026099614,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00891,2026099615,2026099615,2026099615,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00892,2026099616,2026099616,2026099616,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00893,2026099617,2026099617,2026099617,production_no,C01544.AA|C01545.AA|C01547.AB|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00894,2026098140,2026098140,2026098140,production_no,C01544.AA|C01545.AA|C01547.AB|P00398|P00399|P00409|P00412|P00413|S02101.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00895,2026098141,2026098141,2026098141,production_no,C01544.AA|C01545.AA|C01547.AB|P00398|P00399|P00409|P00412|P00413|S02101.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00896,2026098142,2026098142,2026098142,production_no,C01544.AA|C01545.AA|C01547.AB|P00398|P00399|P00409|P00412|P00413|S02101.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00897,2026098143,2026098143,2026098143,production_no,C01544.AA|C01545.AA|C01547.AB|P00398|P00399|P00409|P00412|P00413|S02101.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00898,2026098144,2026098144,2026098144,production_no,C01544.AA|C01545.AA|C01547.AB|P00398|P00399|P00409|P00412|P00413|S02101.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00899,2026096639,2026096639,2026096639,production_no,C01544.AA|C01545.AA|C01547.AC|C01565.AA|P00397|P00407|P00413|S02102.AA,8,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00900,2025095666,2025095666,2025095666,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00901,2025095667,2025095667,2025095667,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00902,2026096636,2026096636,2026096636,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00903,2026096637,2026096637,2026096637,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00904,2026096638,2026096638,2026096638,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00398|P00407|P00409|P00413|S02102.AA|S02104.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00905,2025095668,2025095668,2025095668,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00906,2025095863,2025095863,2025095863,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00907,2025095871,2025095871,2025095871,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00908,2025095951,2025095951,2025095951,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00909,2026096164,2026096164,2026096164,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00910,2026096194,2026096194,2026096194,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00911,2026096195,2026096195,2026096195,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00912,2026096196,2026096196,2026096196,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00913,2026096197,2026096197,2026096197,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00914,2026096346,2026096346,2026096346,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00915,2026096347,2026096347,2026096347,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00916,2026096349,2026096349,2026096349,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00917,2026096350,2026096350,2026096350,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00918,2026096351,2026096351,2026096351,production_no,C01544.AA|C01545.AA|C01547.AC|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00919,2025095329,2025095329,2025095329,production_no,C01544.AA|C01545.AA|C01547.AC|P00398|P00409|P00413|S02104.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00920,2025095665,2025095665,2025095665,production_no,C01544.AA|C01545.AA|C01547.AC|P00398|P00409|P00413|S02104.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00921,2026096640,2026096640,2026096640,production_no,C01544.AA|C01545.AA|C01565.AA|P00397|P00407|P00413|S02102.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00922,2026098474,2026098474,2026098474,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00398|P00408|P00410|P00413|S02103.AA|S02105.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00923,2026098475,2026098475,2026098475,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00398|P00408|P00410|P00413|S02103.AA|S02105.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00924,2026100212,2026100212,2026100212,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00398|P00408|P00410|P00413|S02103.AA|S02105.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00925,2026100213,2026100213,2026100213,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00398|P00408|P00410|P00413|S02103.AA|S02105.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00926,2026102279,2026102279,2026102279,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00398|P00408|P00410|P00413|S02103.AA|S02105.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00927,2026102280,2026102280,2026102280,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00398|P00408|P00410|P00413|S02103.AA|S02105.AA,10,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00928,2026097925,2026097925,2026097925,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00929,2026097926,2026097926,2026097926,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00930,2026097927,2026097927,2026097927,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00931,2026097928,2026097928,2026097928,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00932,2026097929,2026097929,2026097929,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00933,2026098476,2026098476,2026098476,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00934,2026098478,2026098478,2026098478,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00935,2026098479,2026098479,2026098479,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00936,2026098480,2026098480,2026098480,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00937,2026098481,2026098481,2026098481,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00938,2026098482,2026098482,2026098482,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00939,2026098483,2026098483,2026098483,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00940,2026098484,2026098484,2026098484,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00941,2026099049,2026099049,2026099049,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00942,2026099050,2026099050,2026099050,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00943,2026099051,2026099051,2026099051,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00944,2026099052,2026099052,2026099052,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00945,2026099053,2026099053,2026099053,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00946,2026099846,2026099846,2026099846,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00947,2026099847,2026099847,2026099847,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00948,2026099848,2026099848,2026099848,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00949,2026099849,2026099849,2026099849,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00950,2026099851,2026099851,2026099851,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00951,2026100209,2026100209,2026100209,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00952,2026100210,2026100210,2026100210,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00953,2026100211,2026100211,2026100211,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00954,2026100744,2026100744,2026100744,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00955,2026100745,2026100745,2026100745,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00956,2026100746,2026100746,2026100746,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00957,2026100747,2026100747,2026100747,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00958,2026102281,2026102281,2026102281,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00959,2026102282,2026102282,2026102282,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00960,2026102283,2026102283,2026102283,production_no,C01545.AA|C01546.AA|C01547.AB|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00961,2026097304,2026097304,2026097304,production_no,C01545.AA|C01546.AA|C01547.AC|C01565.AA|P00397|P00408|P00413|S02103.AA,8,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00962,2026097306,2026097306,2026097306,production_no,C01545.AA|C01546.AA|C01547.AC|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00963,2026097307,2026097307,2026097307,production_no,C01545.AA|C01546.AA|C01547.AC|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00964,2026097308,2026097308,2026097308,production_no,C01545.AA|C01546.AA|C01547.AC|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00965,2025095443,2025095443,2025095443,production_no,C01545.AA|C01546.AA|C01547.AC|P00399|P00413|S02101.AA,6,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00966,2026096641,2026096641,2026096641,production_no,C01545.AA|C01546.AA|C01565.AA|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00967,2026097063,2026097063,2026097063,production_no,C01545.AA|C01546.AA|C01565.AA|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00968,2026097064,2026097064,2026097064,production_no,C01545.AA|C01546.AA|C01565.AA|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00969,2026097065,2026097065,2026097065,production_no,C01545.AA|C01546.AA|C01565.AA|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00970,2026097066,2026097066,2026097066,production_no,C01545.AA|C01546.AA|C01565.AA|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00971,2026097303,2026097303,2026097303,production_no,C01545.AA|C01546.AA|C01565.AA|P00397|P00408|P00413|S02103.AA,7,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00972,2026100743,2026100743,2026100743,production_no,C01545.AA|C01546.AA|P00397|P00408|P00413|S02103.AA,6,FG|PM|RM,,Y,ratio on keyword_compact,92,lineage.prod
+KW00973,Bill of Lading,BILL OF LADING,BILLOFLADING,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00974,BOL,BOL,BOL,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00975,Box,BOX,BOX,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00976,Cases,CASES,CASES,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00977,Certificate of Analysis,CERTIFICATE OF ANALYSIS,CERTIFICATEOFANALYSIS,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00978,Chocolate,CHOCOLATE,CHOCOLATE,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00979,COA,COA,COA,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00980,Costco,COSTCO,COSTCO,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00981,Frozen,FROZEN,FROZEN,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00982,Gross Weight,GROSS WEIGHT,GROSSWEIGHT,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00983,Halved,HALVED,HALVED,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00984,Halves,HALVES,HALVES,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00985,Individually Quick Frozen,INDIVIDUALLY QUICK FROZEN,INDIVIDUALLYQUICKFROZEN,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00986,IQF,IQF,IQF,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00987,KG,KG,KG,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00988,Kraft Box,KRAFT BOX,KRAFTBOX,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00989,Lbs,LBS,LBS,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00990,Lot,LOT,LOT,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00991,Lot No,LOT NO,LOTNO,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00992,Net Weight,NET WEIGHT,NETWEIGHT,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00993,Pack Date,PACK DATE,PACKDATE,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00994,Pallets,PALLETS,PALLETS,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00995,PO,PO,PO,generic_term,,0,,,N,exact (word boundary),100,domain:BOL/COA vocabulary
+KW00996,Pouch,POUCH,POUCH,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00997,Product Code,PRODUCT CODE,PRODUCTCODE,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00998,Production Date,PRODUCTION DATE,PRODUCTIONDATE,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW00999,Purchase Order,PURCHASE ORDER,PURCHASEORDER,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01000,Receive Date,RECEIVE DATE,RECEIVEDATE,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01001,Ship Date,SHIP DATE,SHIPDATE,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01002,Strawberries,STRAWBERRIES,STRAWBERRIES,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01003,Strawberry,STRAWBERRY,STRAWBERRY,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01004,Tru Fru,TRU FRU,TRUFRU,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01005,TruFru,TRUFRU,TRUFRU,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
+KW01006,Zipper,ZIPPER,ZIPPER,generic_term,,0,,,N,token_set_ratio on keyword_norm,88,domain:BOL/COA vocabulary
