@@ -1,6 +1,170 @@
-# Responses API Agent
+# TruFru Doc Parser
 
-This template defines a conversational agent app. The app comes with a built-in chat UI, but also exposes an API endpoint for invoking the agent so that you can serve your UI elsewhere (e.g. on your website or in a mobile app).
+Turns a TruFru inbound receiving packet (PDF: inspection report + purchase order + bill of lading) into one
+structured `<stem>.final.json`, with every value checked three ways. No LLM is involved: Databricks
+`ai_parse_document` reads the PDF, and rules do the rest locally.
+
+```
+  PDF  --->  <stem>.ai_parse.json  --->  <stem>.final.json
+       pdf_parser                   packet_parser
+       (Databricks ai_parse_document)   classify + extract + merge, then:
+                                        cross_checks     values that must agree across IMIR / PO / BOL
+                                        numeric_confirm  every number vs printed text + math rules R1-R15
+                                        master_match     fuzzy matcher vs master CSVs (item, origin, lots, cut)
+```
+
+The repo also contains a Databricks agent app template (see [Agent app](#agent-app-databricks-template) at the
+bottom). The parser does not need the agent app to run.
+
+## 1. Get the code and set up
+
+Requirements: Python 3.11+ (the project is developed on 3.14), [`uv`](https://docs.astral.sh/uv/getting-started/installation/),
+and the [Databricks CLI](https://docs.databricks.com/aws/en/dev-tools/cli/install) for the PDF stage.
+
+```powershell
+git clone <your-git-link> TrufruDocParser
+cd TrufruDocParser
+
+# create the venv and install everything in pyproject.toml (pdf_parser, packet_parser, rapidfuzz, pytest, ...)
+uv sync
+```
+
+If `uv sync` fails while building `whenever` (a dependency of the agent app that needs a Rust compiler), install only
+what the parser needs:
+
+```powershell
+uv venv
+uv pip install --python .venv\Scripts\python.exe databricks-sdk python-dotenv pymupdf pydantic rapidfuzz pytest
+```
+
+All commands below run from the project root in PowerShell and use `.venv\Scripts\python`. `uv run parse-pdf ...` and
+`uv run parse-packet ...` are equivalent shortcuts.
+
+## 2. Configure Databricks (only the PDF stage needs it)
+
+`pdf_parser` uploads each PDF to a Unity Catalog Volume and runs `ai_parse_document` on a SQL warehouse. Copy the
+template and fill in your workspace:
+
+```powershell
+copy .env.example .env
+databricks auth login --profile DEFAULT          # OAuth, or set DATABRICKS_HOST + DATABRICKS_TOKEN instead
+```
+
+`.env` (project root, gitignored):
+
+```dotenv
+DATABRICKS_CONFIG_PROFILE=DEFAULT               # profile from `databricks auth login`
+# DATABRICKS_HOST=adb-xxxx.azuredatabricks.net  # alternative: personal access token
+# DATABRICKS_TOKEN=dapi...
+DATABRICKS_WAREHOUSE_ID=...                     # Pro or Serverless warehouse with AI Functions
+TRUFRU_PARSER_VOLUME=/Volumes/<catalog>/<schema>/<volume>
+TRUFRU_PARSER_VERSION=2.0                       # optional ai_parse_document version
+```
+
+Permissions: `READ VOLUME` + `WRITE VOLUME` on the volume and `CAN USE` on the warehouse.
+
+The master data for the fuzzy matcher ships with the repo in `docs/official-docs/` (`master_keywords.csv`,
+`master_products.csv`, `master_lots.csv`). Point elsewhere with `--master-dir` or `TRUFRU_MASTER_DIR`.
+
+## 3. PDF to final JSON in one command
+
+Both check layers (fuzzy matcher and numeric confirmer) run by default. `--final` runs stage 1 (Databricks) and
+stage 2 (local rules) back to back.
+
+**One PDF**
+
+```powershell
+.venv\Scripts\python -m pdf_parser "docs\official-docs\BOL IQF Strawberries\STRAWBERRY HALVED- PO# 20260089938.pdf" --out output\packets --json-only --final
+```
+
+**Every PDF in a folder**
+
+```powershell
+.venv\Scripts\python -m pdf_parser "docs\official-docs\BOL IQF Strawberries" --out output\packets --json-only --final
+```
+
+**Where the output lands** (one sub-folder per PDF, named after the file):
+
+```
+output\packets\STRAWBERRY_HALVED_PO_20260089938\STRAWBERRY_HALVED_PO_20260089938.ai_parse.json   raw Databricks output
+output\packets\STRAWBERRY_HALVED_PO_20260089938\STRAWBERRY_HALVED_PO_20260089938.elements.json   flattened elements
+output\packets\STRAWBERRY_HALVED_PO_20260089938\STRAWBERRY_HALVED_PO_20260089938.final.json      <-- final output
+output\packets\manifest.json                                                                      one row per PDF
+```
+
+Drop `--json-only` to also get readable `.md`, `.parsed.md` and `.parsed.html` views next to the JSON. Add
+`--recursive` to include PDFs in sub-folders and `--cleanup` to delete the uploaded copies from the Volume afterwards.
+
+If stage 2 fails for a packet, the stage 1 files are kept and a warning is printed, so the Databricks work is never
+lost. Re-run stage 2 alone as in the next section.
+
+## 4. Stage 2 alone: ai_parse.json to final JSON (no Databricks)
+
+Use this to re-run the rules, the fuzzy matcher and the numeric confirmer on parses you already have.
+
+```powershell
+# one file (output next to it)
+.venv\Scripts\python -m packet_parser "output\packets\STRAWBERRY_HALVED_PO_20260089938\STRAWBERRY_HALVED_PO_20260089938.ai_parse.json"
+
+# whole folder (searched recursively), outputs collected in one place
+.venv\Scripts\python -m packet_parser output\packets --out output\final
+
+# options
+.venv\Scripts\python -m packet_parser output\packets --out output\final --no-master      # skip fuzzy matcher
+.venv\Scripts\python -m packet_parser output\packets --out output\final --no-numeric     # skip numeric confirmer
+.venv\Scripts\python -m packet_parser output\packets --out output\final --master-dir path\to\csvs
+```
+
+Without `--out`, each `<stem>.final.json` is written beside its `.ai_parse.json`; with `--out`, they all go into that
+folder. A `summary.json` with one row per packet is written in the same place.
+
+## 5. Reading the output
+
+Each `<stem>.final.json` holds:
+
+| Key | What it is |
+|---|---|
+| `packet.inspection_report` / `purchase_order` / `bill_of_lading` | the three documents as structured fields (tick-boxes, lots, line items, stamps) |
+| `packet.traceability` | the one-row join record: PO, item, lots, cases, weights, pallets, dates, carrier, seal, temperature |
+| `sources` | which page element each value was read from, with OCR confidence |
+| `cross_checks` | PO number, item, lot, seal, counts, weights and temperature agreement across the documents |
+| `numeric_confirm` | every number with a status (`CONFIRMED_TEXT`, `CONFIRMED_MATH`, `CONFLICT`, `WARN`, ...), the rule results, and `should_be` for a number in conflict |
+| `master_match` | matcher verdict (`CONFIRMED` / `LIKELY` / `NEW_VARIANT` / `CONFLICT` / ...), lots found in the text, and the `master_*` checks of item, origin, organic, lots and cut |
+
+`summary.json` lists per packet `checks_failed`, `numeric_conflicts`, `master_item`, `master_flags` and
+`needs_review`. The console prints the same per packet while running.
+
+All checks are flags only: no extracted value is ever changed. Signatures and initials are reported as booleans only
+and are scrubbed from free text.
+
+Full details: [`pdf_parser/README.md`](pdf_parser/README.md) (stage 1 options) and
+[`packet_parser/README.md`](packet_parser/README.md) (extraction rules, the three check layers, output schema).
+
+## 6. Tests
+
+```powershell
+.venv\Scripts\python -m pytest -q tests
+```
+
+Covers the fuzzy matcher behaviour (OCR repairs, lots, two-clue rule, conflicts), the numeric rules and printed-number
+reader, and the pipeline wiring. No Databricks access needed.
+
+## Repository layout
+
+| Path | Purpose |
+|---|---|
+| `pdf_parser/` | stage 1: PDF -> `ai_parse.json` via Databricks `ai_parse_document` |
+| `packet_parser/` | stage 2: rules, traceability merge, `cross_checks`, `numeric_confirm`, `master_match` |
+| `packet_parser/fuzzy_matcher/` | OCR keyword matcher over the master CSVs (rapidfuzz) |
+| `docs/official-docs/` | sample PDFs and the master CSVs |
+| `tests/` | pytest suite |
+| `agent_server/`, `databricks.yml`, `scripts/` | the Databricks agent app template (below) |
+
+---
+
+# Agent app (Databricks template)
+
+This part of the repo is a conversational agent app template. The app comes with a built-in chat UI, but also exposes an API endpoint for invoking the agent so that you can serve your UI elsewhere (e.g. on your website or in a mobile app).
 
 The agent in this template implements the [OpenAI Responses API](https://platform.openai.com/docs/api-reference/responses) interface. It ships with a sample `get_current_time` tool. The agent code includes commented-out examples showing how to connect to [Databricks MCP servers](https://docs.databricks.com/aws/en/generative-ai/agent-framework/agent-tool) (including the built-in code interpreter, Vector Search, Genie, and UC functions). You can customize agent code and test it via the API or UI.
 
